@@ -1,7 +1,7 @@
 # User Based Music Recommendation System
 
 Topics
-* Collabarative Filtering
+* Collaborative Filtering
 * User-Based or Memory-Based Filtering <br>
 
 Similarity Measures Used
