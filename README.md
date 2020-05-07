@@ -1,4 +1,4 @@
-# UserBasedMusicRecommendationSystem
+# User Based Music Recommendation System
 
 Topics
 * Collabarative Filtering
